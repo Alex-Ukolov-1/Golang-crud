@@ -18,9 +18,10 @@ var Books=[]models.Book{
 	},
 
 	{
-	ID:     3,
-	Title: "GOLANG",
-	Author: "Gopher",
-	Desc:   "A book for Go",
-	},
+		ID:     3,
+		Title: "GOLANG",
+		Author: "Gopher",
+		Desc:   "A book for Go",
+		},
+
 }
